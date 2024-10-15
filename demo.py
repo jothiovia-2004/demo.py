@@ -1,2 +1,2 @@
-i like ice cream
-i love this movie
+print("i like ice cream")
+print("i love this movie")
